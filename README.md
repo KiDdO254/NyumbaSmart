@@ -100,5 +100,5 @@ Kenyans living abroad who own rental properties locally and require transparent,
 
 ### **Link to Project Board**
 
-[NyumbSmart Project board(https://example.com)
+[NyumbSmart Project Board](https://github.com/users/KiDdO254/projects/1)
 
